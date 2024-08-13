@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1>Walidacja</h1>
-    <img src="błąd_Wawrzyniak-Pekar.jpg" alt="błąd_Wawrzyniak-Pekar.jpg" width="300"></br>
+    <img src="błąd_Wawrzyniak-Pekar.jpg" alt="błąd_Wawrzyniak-Pekar.jpg" width="300">
 	<img src="poprawa_Wawrzyniak-Pekar_Kacper.jpg" alt="poprawa_Wawrzyniak-Pekar_Kacper.jpg" width="300">
     <p><a href="indexhtml.html">Powrót do strony głównej</a></p>
 </body>
